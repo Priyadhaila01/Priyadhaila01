@@ -18,19 +18,8 @@ I'm a passionate learner exploring new domains in technology, currently delving 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadhaila01&layout=compact&theme=dark&hide_border=false)
 
-## 📝 Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding the Basics of Machine Learning](https://yourblog.com/machine-learning-basics)
-- [Exploring Python for Data Science](https://yourblog.com/python-data-science)
-- [A Guide to Django for Beginners](https://yourblog.com/django-guide)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎨 Profile Views:
-
-![Profile Views](https://komarev.com/ghpvc/?username=Priyadhaila01&color=blue)
-
 ---
+[![](https://visitcount.itsvg.in/api?id=Priyadhaila01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Proudly created with [GPRM](https://gprm.itsvg.in)*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
