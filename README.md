@@ -1,9 +1,14 @@
 # 💫 About Me:
 🔭 Currently working on developing a personal budget tracker to categorize expenses, analyze spending patterns, and generate insights.
+
 👯 Looking to collaborate on Data analysis, visualization, or finance-related projects.
+
 🤝 Need help with Power BI dashboards and data storytelling.
+
 🌱 Currently learning Advanced SQL, business KPIs, and financial modeling.
+
 💬 Ask me about AI in HR/legal analytics or my resume screening tool.
+
 ⚡ Fun fact that I turned a simple spreadsheet into a dashboard that cut spending by 30%!
 
 
