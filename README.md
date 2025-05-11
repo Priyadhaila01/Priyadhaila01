@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🔭 Currently working on:<br>Currently developing a personal budget tracker to categorize expenses, analyze spending patterns, and generate insights.<br><br>
+## 🔭  <br> Currently working on developing a personal budget tracker to categorize expenses, analyze spending patterns, and generate insights.<br><br>
 ## 👯 Looking to collaborate on:<br>Data analysis, visualization, or finance-related projects.<br><br>
 ## 🤝 Need help with:<br>Power BI dashboards and data storytelling.<br><br>
 ## 🌱 Currently learning:<br>Advanced SQL, business KPIs, and financial modeling.<br><br>
