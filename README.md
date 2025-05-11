@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priya Dhaila
 
-I'm a passionate learner exploring new domains in technology, currently delving into Artificial Intelligence and Machine Learning. I aim to apply these skills to real-world applications.
+Hello! I'm a Data and Business Analyst passionate about transforming data into actionable insights that drive strategic decisions. With a foundation in Artificial Intelligence and Machine Learning, I specialize in leveraging data analytics to solve real-world business challenges.
 
 ## 📫 How to reach me:
 
