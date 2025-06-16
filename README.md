@@ -1,15 +1,15 @@
 # 💫 About Me:
-🔭 Currently working on developing a personal budget tracker to categorize expenses, analyze spending patterns, and generate insights.
+🔭 Completed Customer Churn Analysis using SQL and Power BI to uncover key churn drivers and business insights.
 
-👯 Looking to collaborate on Data analysis, visualization, or finance-related projects.
+👯 Open to collaborating on data analytics, business dashboards, and AI-powered solutions.
 
-🤝 Need help with Power BI dashboards and data storytelling.
+🤝 Happy to help with Power BI dashboards, SQL queries, and analytics-driven decision making.
 
-🌱 Currently learning Advanced SQL, business KPIs, and financial modeling.
+🌱 Continuing to deepen my skills in advanced SQL, business KPIs, AI for analytics, and data-driven strategy.
 
-💬 Ask me about AI in HR/legal analytics or my resume screening tool.
+💬 Ask me about my AI legal assistant (LawPal), resume screening tool (85% accuracy), or customer churn dashboard.
 
-⚡ Fun fact that I turned a simple spreadsheet into a dashboard that cut spending by 30%!
+⚡ Fun fact: I built a dashboard that helped reduce personal spending by over 30% and highlighted actionable patterns for smarter decisions.
 
 
 ## 🌐 Socials:
